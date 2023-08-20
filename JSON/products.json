@@ -1,0 +1,55 @@
+[
+    {"name":"iPhone 10",
+    "price":154,
+    "featured": true,
+"company":"Apple"},
+{
+    "name": "Galaxy S21",
+    "price": 899,
+    "featured": true,
+    "company": "Samsung"
+},
+{
+    "name": "Galaxy M31",
+    "price": 279,
+    "featured": true,
+    "company": "Samsung"
+},
+{
+    "name": "iPhone SE",
+    "price": 399,
+    "featured": true,
+    "company": "Apple"
+},
+{
+    "name": "Redmi 9",
+    "price": 149,
+    "featured": false,
+    "company": "Redmi"
+},
+{
+    "name": "Galaxy A72",
+    "price": 399,
+    "featured": true,
+    "company": "Samsung"
+},
+{
+    "name": "iPhone 12 Pro",
+    "price": 999,
+    "featured": false,
+    "company": "Apple"
+},
+{
+    "name": "iPhone 12 Pro",
+    "price": 999,
+    "featured": true,
+    "company": "Apple"
+},
+{
+    "name": "Redmi Note 10",
+    "price": 199,
+    "featured": true,
+    "company": "Redmi"
+}
+
+]
